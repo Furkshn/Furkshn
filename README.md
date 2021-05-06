@@ -6,7 +6,7 @@
 
   - **I develop research and projects in the field of data science**. :robot:
 
-  - The **Python** programming language is the best.** :wink:
+  - **The Python programming language is the best.** :wink:
 
   - **To contact me:** <a href="mailto:furkan4860@gmail.com"> furkan4860@gmail.com</a> :email:
 

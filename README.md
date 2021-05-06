@@ -2,16 +2,16 @@
 
 <h3 align="center"> Data Science | Machine Learning </h3>
   
-  - I'm Furkan :slightly_smiling_face:
+  - **I'm Furkan**:slightly_smiling_face:
 
-  - I develop research and projects in the field of data science. :robot:
+  - **I develop research and projects in the field of data science**. :robot:
 
-  - The Python programming language is the best. :wink:
+  - The **Python** programming language is the best.** :wink:
 
-  - To contact me: <a href="mailto:furkan4860@gmail.com"> furkan4860@gmail.com</a> :email:
+  - **To contact me:** <a href="mailto:furkan4860@gmail.com"> furkan4860@gmail.com</a> :email:
 
-  - To reach me on Kaggle:  
-  <a href="https://www.kaggle.com/furkshn"> <img src="https://symbols.getvecta.com/stencil_86/4_kaggle.d93bb2e6a0.svg" alt="git" width="80" height="80" margin = 10px/></a>
+  - **To reach me on Kaggle:**  
+             <a href="https://www.kaggle.com/furkshn"> <img src="https://symbols.getvecta.com/stencil_86/4_kaggle.d93bb2e6a0.svg" alt="Kaggle_Furkshn" width="80" height="80"/></a>
 
 
 

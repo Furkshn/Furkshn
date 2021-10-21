@@ -30,7 +30,9 @@
 
 <a href="https://github.com/Furkshn?tab=repositories"> <img align="left" alt="Computer Vision" height="35px" src="https://symbols.getvecta.com/stencil_28/16_cognative-services-computer-vision.81847a6f56.svg" /> </a>
 
-<a href="https://github.com/Furkshn?tab=repositories"> <img align="left" alt="Computer Vision" height="35px" src="https://symbols.getvecta.com/stencil_85/58_jupyter.10038bcca2.svg" /> </a>
+<a href="https://github.com/Furkshn?tab=repositories"> <img align="left" alt="JupyterLab" height="35px" src="https://symbols.getvecta.com/stencil_85/58_jupyter.10038bcca2.svg" /> </a>
+
+<a href="https://github.com/Furkshn?tab=repositories"> <img align="left" alt="Apache Spark" height="35px" src="https://cdn.worldvectorlogo.com/logos/apache-spark-5.svg" /> </a>
 
 
 

@@ -18,11 +18,11 @@
 
  - **Languages and Tools:**
 
-<a href="https://github.com/Furkshn?tab=repositories"> <img align="left" alt="Python" height="35px" src="https://symbols.getvecta.com/stencil_92/73_python-icon.1aed35c3f5.svg" /> </a>
+<a href="https://github.com/Furkshn/Python"> <img align="left" alt="Python" height="35px" src="https://symbols.getvecta.com/stencil_92/73_python-icon.1aed35c3f5.svg" /> </a>
 
 <a href="https://github.com/Furkshn?tab=repositories"> <img align="left" alt="MySQL" height="35px" src="https://symbols.getvecta.com/stencil_88/134_mysql.04ea1672b7.svg" /> </a>
 
-<a href="https://github.com/Furkshn?tab=repositories"> <img align="left" alt="MongoDB" height="35px" src="https://symbols.getvecta.com/stencil_88/103_mongodb.e1b50f67e6.svg" /> </a>
+<a href="https://github.com/Furkshn/MongoDB"> <img align="left" alt="MongoDB" height="35px" src="https://symbols.getvecta.com/stencil_88/103_mongodb.e1b50f67e6.svg" /> </a>
 
 <a href="https://github.com/Furkshn?tab=repositories"> <img align="left" alt="HTML" height="35px" src="https://symbols.getvecta.com/stencil_25/35_html5.63ca2940ce.svg" /> </a>
 
@@ -32,7 +32,7 @@
 
 <a href="https://github.com/Furkshn?tab=repositories"> <img align="left" alt="JupyterLab" height="35px" src="https://symbols.getvecta.com/stencil_85/58_jupyter.10038bcca2.svg" /> </a>
 
-<a href="https://github.com/Furkshn?tab=repositories"> <img align="left" alt="Apache Spark" height="35px" src="https://cdn.worldvectorlogo.com/logos/apache-spark-5.svg" /> </a>
+<a href="https://github.com/Furkshn/Apache_Spark_Python"> <img align="left" alt="Apache Spark" height="35px" src="https://cdn.worldvectorlogo.com/logos/apache-spark-5.svg" /> </a>
 
 
 
